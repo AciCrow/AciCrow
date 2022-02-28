@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AciCrow
+- 👀 I’m interested in programming languages
+- 🌱 I’m currently learning React
